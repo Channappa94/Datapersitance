@@ -34,12 +34,6 @@ class ViewController: UIViewController {
             name.text = nameTwo
             number.text = numberTwo
         }
-        
- 
-
-
-        
-        
 
     }
     
